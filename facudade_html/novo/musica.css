@@ -1,0 +1,22 @@
+h1 {
+    color: red;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2 {
+    color: red;
+}
+
+h3 {
+    color: goldenrod;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+    background-image: url(https://wallpapers.com/images/hd/purple-desktop-n5kpu9pdxxynwtts.jpg);
+}
+
+table {
+    color: goldenrod;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
